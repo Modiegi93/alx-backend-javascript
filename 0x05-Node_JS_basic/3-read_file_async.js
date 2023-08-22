@@ -43,8 +43,7 @@ function countStudents(path) {
     }
     resolve(response);
   });
- });
+});
 }
-
 
 module.exports = countStudents;
